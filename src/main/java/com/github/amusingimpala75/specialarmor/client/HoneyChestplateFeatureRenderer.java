@@ -2,7 +2,6 @@ package com.github.amusingimpala75.specialarmor.client;
 
 import com.github.amusingimpala75.specialarmor.SpecialArmor;
 import com.github.amusingimpala75.specialarmor.item.HoneyChestplate;
-import com.github.amusingimpala75.specialarmor.item.SlimeBoots;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.minecraft.client.render.OverlayTexture;
