@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.amusingimpala75.specialarmor.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinBipedEntityRenderer",
+    "MixinBlock",
+    "MixinEntity",
+    "MixinLivingEntity",
+    "MixinPlayerEntityRenderer"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

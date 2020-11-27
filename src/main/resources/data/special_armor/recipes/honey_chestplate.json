@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "item": "special_armor:honey_chestplate"
+  }
+}
